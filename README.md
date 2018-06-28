@@ -41,20 +41,25 @@ Artificial Neural Network R-Studio can be reviewed here: https://github.com/jk87
 Correlations close to 1 indicate strong linear relationships between two variables
 
 First Run Artificial Neural Network on R-Studio
-These correlations reflect hidden layers = 1 and resilient backpropagation with weight backtracking
+These correlations reflect hidden layers = 1 and resilient backpropagation with weight backtracking 
+
 First Run Accuracy: 0.9130414696
 
 # Artificial Neural Network: Azure Machine Learning Studio
 Azure Studio can be reviewed here:https://github.com/jk8761/MSDS692/blob/master/AML.flv
 
 What is Azure Machine Learning Studio
-AML is a simple, scalable, cutting edge Machine Learning solution. Machine Learning Studio is a powerfully simple browser-based, visual drag-and-drop authoring environment where no coding is necessary. Go from idea to deployment in a matter of clicks.​
+AML is a simple, scalable, cutting edge Machine Learning solution. Machine Learning Studio is a powerfully simple browser-based, visual drag-and-drop authoring environment where no coding is necessary. Go from idea to deployment in a matter of clicks
 
 Azure Machine Learning Studio
-Web site: https://studio.azureml.net
-Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio
+ Web site: https://studio.azureml.net
+ Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio
 
 
 # Condensed Summary can be found here: 
 This video is a summary presentation of the above documents and results: https://www.youtube.com/watch?v=anFZ1IJIb3Y
+
+# Source Code: 
+Source Code can be reviewed here: https://github.com/jk8761/MSDS692/blob/master/MSDS692SourceCode.zip
+
 
