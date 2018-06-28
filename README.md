@@ -27,7 +27,7 @@ Enclosue(C) Typical RDBMS View
  https://github.com/jk8761/MSDS692/blob/master/Enclosue(C)%20Typical%20RDBMS%20View.doc
 
 # Data Manipulations
-Data Manipulations can be reviewed here: 
+Data Manipulations can be reviewed here: https://github.com/jk8761/MSDS692/blob/master/Manipulations.flv
 
 Variable Importance, Feature Selection
 Variable and feature selection have become the focus of much research in areas of application for which datasets with tens or hundreds of thousands of variables are available. These areas include text processing of internet documents, gene expression array analysis, and combinatorial chemistry.
@@ -39,21 +39,16 @@ In statistics and applications of statistics, normalization can have a range of 
 Artificial Neural Network R-Studio can be reviewed here:
 
 Correlations close to 1 indicate strong linear relationships between two variables
+
+First Run Artificial Neural Network on R-Studio
 These correlations reflect hidden layers = 1 and resilient backpropagation with weight backtracking
 
-cor(predicted_class, q.tst$class)​
+  cor(predicted_class, q.tst$class)
+  predicted_class <- q.prf$net.result 
+  cor(predicted_class, q.tst$class)​
+        [,1]
+  [1,] 0.9130414696
 
-​
-
-      > predicted_class <- q.prf$net.result	​
-
-      > cor(predicted_class, q.tst$class)​
-
-           [,1]	​
-
-      [1,] 0.9130414696  ​
-
-​
 
 # Artificial Neural Network: Azure Machine Learning Studio
 
