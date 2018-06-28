@@ -17,15 +17,14 @@ Exploratory Data Analysis and the initial Data Preparation is an absolute necess
 The Dataset: Mushroom data set:  http://archive.ics.uci.edu/ml/datasets/Mushroom
 
 # Enclosures showing EDA Results
-      Enclosure(A) Attribute Distributions
-      https://github.com/jk8761/MSDS692/blob/master/Enclosure(A)%20Attribute%20Distributions.doc
+Enclosure(A) Attribute Distributions
+ https://github.com/jk8761/MSDS692/blob/master/Enclosure(A)%20Attribute%20Distributions.doc
 
-      Enclosue(B) Plots Data Distributions
-      https://github.com/jk8761/MSDS692/blob/master/Enclosue(B)%20Plots%20Data%20Distribution.doc
+Enclosue(B) Plots Data Distributions
+ https://github.com/jk8761/MSDS692/blob/master/Enclosue(B)%20Plots%20Data%20Distribution.doc
       
-      Enclosue(C) Typical RDBMS View
-      https://github.com/jk8761/MSDS692/blob/master/Enclosue(C)%20Typical%20RDBMS%20View.doc
-
+Enclosue(C) Typical RDBMS View
+ https://github.com/jk8761/MSDS692/blob/master/Enclosue(C)%20Typical%20RDBMS%20View.doc
 
 # Data Manipulations
 
