@@ -27,8 +27,35 @@ Enclosue(C) Typical RDBMS View
  https://github.com/jk8761/MSDS692/blob/master/Enclosue(C)%20Typical%20RDBMS%20View.doc
 
 # Data Manipulations
+Data Manipulations can be reviewed here: 
+
+Variable Importance, Feature Selection
+Variable and feature selection have become the focus of much research in areas of application for which datasets with tens or hundreds of thousands of variables are available. These areas include text processing of internet documents, gene expression array analysis, and combinatorial chemistry.
+
+Considering Normalization
+In statistics and applications of statistics, normalization can have a range of meanings. In the simplest cases, normalization of ratings means adjusting values measured on different scales to a notionally common scale, often prior to averaging.​
 
 # Artificial Neural Network: R-Studio
+Artificial Neural Network R-Studio can be reviewed here:
+cor(predicted_class, q.tst$class)​
+
+​
+
+      > predicted_class <- q.prf$net.result	​
+
+      > cor(predicted_class, q.tst$class)​
+
+           [,1]	​
+
+      [1,] 0.9130414696  ​
+
+​
+
+Correlations close to 1 indicate strong linear relationships between two variables.​
+
+The correlations reflect hidden layers = 1 and resilient backpropagation with weight backtracking.​
+
+
 
 # Artificial Neural Network: Azure Machine Learning Studio
 
