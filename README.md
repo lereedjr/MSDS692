@@ -1,18 +1,20 @@
 # MSDS692
 **Project Summary**
-This project compares R-Studio and Azure Machine Learning Studio. 
-The comparsion is done by accomplishing a Arificial Neural Network experiment on both platforms.
+
+Abstract:
+The goal of the experiment is to examine the results of two distinct toolsets doing the same [Machine Learning Data Pipeline: the comparsion is done by accomplishing a Arificial Neural Network experiment on both platforms.] analysis on the same data. It is meant to compare the usefulness of each tool while accomplishing each step of the experiment.
+
+The chosen Machine Learning Method: Artificial Neural Network
 
 # Data Preparation
 Data Preparation can be reviewed here: https://github.com/jk8761/MSDS692/blob/master/DataPrep.flv
 
-Abstract:
-The goal of the experiment is to examine the results of two distinct toolsets doing the same [Machine Learning Data Pipeline] analysis on the same data. It is meant to compare the usefulness of each tool while accomplishing each step of the experiment.
-The chosen Machine Learning Method: Artificial Neural Network
+Exploratory Data Analysis: Data Preparation
+                           This task was done using R-Studio
+
+Exploratory Data Analysis and the initial Data Preparation is an absolute necessity for each toolset being evaluated. This step is done once only and the resulting clean data is used for R-Studio and Azure Machine Learning Studio
 
 The Dataset: Mushroom data set:  http://archive.ics.uci.edu/ml/datasets/Mushroom
-
-This presentation compares the resulting Data Pipelines (DP). The first DP is accomplished using the toolset R-Studio (RS). The second DP is accomplished using Microsoft Azure Machine Learning Studio (AML).
 
 # Data Manipulations
 
