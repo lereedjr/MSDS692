@@ -4,13 +4,16 @@ This project compares R-Studio and Azure Machine Learning Studio.
 The comparsion is done by accomplishing a Neural network experiment on both platforms.
 
 # Data Preparation
+Data Preparation can be reviewed here: https://github.com/jk8761/MSDS692/blob/master/MSDS692%20DataPrep.doc
+
 # Data Manipulations
+
 # Artificial Neural Network: R-Studio
+
 # Artificial Neural Network: Azure Machine Learning Studio
 
-
 # Link to MSDS692 Project Presentation Video
-  https://www.youtube.com/watch?v=anFZ1IJIb3Y
+This video is a summary presentation of the above documents and results: https://www.youtube.com/watch?v=anFZ1IJIb3Y
   
   
 
