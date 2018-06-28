@@ -52,9 +52,10 @@ What is Azure Machine Learning Studio
 AML is a simple, scalable, cutting edge Machine Learning solution. Machine Learning Studio is a powerfully simple browser-based, visual drag-and-drop authoring environment where no coding is necessary. Go from idea to deployment in a matter of clicks
 
 Azure Machine Learning Studio
- Web site: https://studio.azureml.net
 
- Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio
+Web site: https://studio.azureml.net
+
+Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio
 
 
 # Condensed Summary can be found here: 
