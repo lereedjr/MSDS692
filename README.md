@@ -1,6 +1,8 @@
 # MSDS692
 **Project Summary**
 
+** Viewing is easier with : https://desktop.github.com/
+
 Abstract:
 The goal of the experiment is to examine the results of two distinct toolsets doing the same [Machine Learning Data Pipeline: the comparsion is done by accomplishing a Arificial Neural Network experiment on both platforms.] analysis on the same data. It is meant to compare the usefulness of each tool while accomplishing each step of the experiment.
 
