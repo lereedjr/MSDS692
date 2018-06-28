@@ -4,7 +4,7 @@ This project compares R-Studio and Azure Machine Learning Studio.
 The comparsion is done by accomplishing a Arificial Neural Network experiment on both platforms.
 
 # Data Preparation
-Data Preparation can be reviewed here: 
+Data Preparation can be reviewed here: https://github.com/jk8761/MSDS692/blob/master/DataPrep.flv
 
 Abstract:
 The goal of the experiment is to examine the results of two distinct toolsets doing the same [Machine Learning Data Pipeline] analysis on the same data. It is meant to compare the usefulness of each tool while accomplishing each step of the experiment.
