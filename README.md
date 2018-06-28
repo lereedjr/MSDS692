@@ -47,10 +47,10 @@ First Run Accuracy: 0.9130414696
 # Artificial Neural Network: Azure Machine Learning Studio
 Azure Studio can be reviewed here:https://github.com/jk8761/MSDS692/blob/master/AML.flv
 
-> What is Azure Machine Learning Studio
+What is Azure Machine Learning Studio
 AML is a simple, scalable, cutting edge Machine Learning solution. Machine Learning Studio is a powerfully simple browser-based, visual drag-and-drop authoring environment where no coding is necessary. Go from idea to deployment in a matter of clicks.​
 
-> Azure Machine Learning Studio
+Azure Machine Learning Studio
 Web site: https://studio.azureml.net
 Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio
 
