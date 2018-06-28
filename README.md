@@ -37,27 +37,21 @@ In statistics and applications of statistics, normalization can have a range of 
 
 # Artificial Neural Network: R-Studio
 Artificial Neural Network R-Studio can be reviewed here:
-cor(predicted_class, q.tst$class)​
 
+Correlations close to 1 indicate strong linear relationships between two variables
+These correlations reflect hidden layers = 1 and resilient backpropagation with weight backtracking
 ​
-
+cor(predicted_class, q.tst$class)​
       > predicted_class <- q.prf$net.result	​
-
       > cor(predicted_class, q.tst$class)​
 
            [,1]	​
-
       [1,] 0.9130414696  ​
-
 ​
 
-Correlations close to 1 indicate strong linear relationships between two variables.​
-
-The correlations reflect hidden layers = 1 and resilient backpropagation with weight backtracking.​
-
-
-
 # Artificial Neural Network: Azure Machine Learning Studio
+
+
 
 # Link to MSDS692 Project Presentation Video
 This video is a summary presentation of the above documents and results: https://www.youtube.com/watch?v=anFZ1IJIb3Y
