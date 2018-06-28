@@ -33,10 +33,10 @@ Variable Importance, Feature Selection
 Variable and feature selection have become the focus of much research in areas of application for which datasets with tens or hundreds of thousands of variables are available. These areas include text processing of internet documents, gene expression array analysis, and combinatorial chemistry.
 
 Considering Normalization
-In statistics and applications of statistics, normalization can have a range of meanings. In the simplest cases, normalization of ratings means adjusting values measured on different scales to a notionally common scale, often prior to averaging.​
+In statistics and applications of statistics, normalization can have a range of meanings. In the simplest cases, normalization of ratings means adjusting values measured on different scales to a notionally common scale, often prior to averaging.
 
 # Artificial Neural Network: R-Studio
-Artificial Neural Network R-Studio can be reviewed here:
+Artificial Neural Network R-Studio can be reviewed here: https://github.com/jk8761/MSDS692/blob/master/ANN.flv
 
 Correlations close to 1 indicate strong linear relationships between two variables
 
@@ -45,11 +45,16 @@ These correlations reflect hidden layers = 1 and resilient backpropagation with 
 First Run Accuracy: 0.9130414696
 
 # Artificial Neural Network: Azure Machine Learning Studio
+Azure Studio can be reviewed here:https://github.com/jk8761/MSDS692/blob/master/AML.flv
+
+> What is Azure Machine Learning Studio
+AML is a simple, scalable, cutting edge Machine Learning solution. Machine Learning Studio is a powerfully simple browser-based, visual drag-and-drop authoring environment where no coding is necessary. Go from idea to deployment in a matter of clicks.​
+
+> Azure Machine Learning Studio
+Web site: https://studio.azureml.net
+Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/studio/what-is-ml-studio
 
 
-
-# Link to MSDS692 Project Presentation Video
+# Condensed Summary can be found here: 
 This video is a summary presentation of the above documents and results: https://www.youtube.com/watch?v=anFZ1IJIb3Y
-  
-  
 
